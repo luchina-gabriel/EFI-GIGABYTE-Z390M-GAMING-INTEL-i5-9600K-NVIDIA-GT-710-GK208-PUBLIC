@@ -4,7 +4,7 @@
 
 # Basic Information
 
-**Latest working macOS**: macOS Sequoia (15.3.2)
+**Latest working macOS**: macOS Catalina (10.15.7)
 <br>
 **Current OpenCore**: 1.0.4
 <br>
