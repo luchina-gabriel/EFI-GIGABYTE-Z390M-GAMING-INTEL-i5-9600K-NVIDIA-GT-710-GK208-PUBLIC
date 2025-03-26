@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z390M Gaming, Intel Core i5 9600K, Nvidia GT 710 2Gb [GK208B]
 
+![Hackintool - System](https://github.com/user-attachments/assets/462ddbf2-c1f5-4e56-894b-814213ecbe46)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.2)
