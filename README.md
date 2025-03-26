@@ -1,6 +1,6 @@
 # Hackintosh, Gigabyte Z390M Gaming, Intel Core i5 9600K, Nvidia GT 710 2Gb [GK208B]
 
-![Hackintool - System](https://github.com/user-attachments/assets/462ddbf2-c1f5-4e56-894b-814213ecbe46)
+![Hackintool - System](https://github.com/user-attachments/assets/be7db315-7e80-4ba9-a85a-1acf4723b628)
 
 # Basic Information
 
